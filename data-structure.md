@@ -5,7 +5,7 @@
 ### phone table
 
 * phone_id Primary Key, Identity
-* phone_number_id Required, Extended Character Set, Length: 10
+* phone_number Required, Extended Character Set, Length: 10
 
 ### address table
 
